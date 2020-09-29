@@ -1,0 +1,10 @@
+body{
+	margin: 0;
+	padding: 0;
+	font font-family: sans-serif;
+{
+	padding: 0 100px
+    background:url(https://i.pinimg.com/originals/c5/2d/1f/c52d1f65486a98c2986c9e95ec4d511c.jpg);
+    height:100px;
+    display: flex;
+    justify-content:center;
