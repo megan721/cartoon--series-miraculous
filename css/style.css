@@ -1,10 +1,29 @@
 body{
 	margin: 0;
-	padding: 0;
-	font font-family: sans-serif;
-{
-	padding: 0 100px
-    background:url(https://i.pinimg.com/originals/c5/2d/1f/c52d1f65486a98c2986c9e95ec4d511c.jpg);
-    height:100px;
-    display: flex;
-    justify-content:center;
+	font-family:sans-serif;
+	background-color:#F1948A ;
+	padding-top: 50px
+	padding-bottom:50;
+   text-align:center;
+   border:20px solid black;
+}
+header h1{
+	color: black ;
+
+}
+
+
+      header img{
+   	border-radius: 170px;
+	width: 300px;
+	border: 10px solid white;
+	text-align:center;
+}
+footer{
+	background-color: white
+
+}
+
+main{
+
+}
